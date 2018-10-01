@@ -3,6 +3,11 @@
  - Bio: Learning Web Dev & Design
  - GitHub: [lulabell](https://github.com/lulabell)
 
+#### Name: [Anuj Raval](https://github.com/anujraval24)
+ - Place: Ahmedabad, India
+ - Bio: NodeJS, REST API, Express, Loopback
+ - GitHub: [Anuj](https://github.com/anujraval24)
+ 
 #### Name: [Tejas S](https://github.com/tejassateesh)
  - Place: Bengaluru, India
  - Bio: Computer Science @ RNSIT
